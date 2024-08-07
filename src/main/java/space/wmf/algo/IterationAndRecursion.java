@@ -8,7 +8,7 @@ package space.wmf.algo;
 public class IterationAndRecursion {
 
     public static void main(String[] args) {
-        int i = 100000;
+        int i = 10000;
 //        iteration(i);
         recursion(i);
     }
